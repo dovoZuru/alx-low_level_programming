@@ -3,6 +3,8 @@
 /**
  * main - Prints sizeof var data types
  *
+ * Description: using the main function
+ * This program Prints sizeof var data types
  * Return: 0
  */
 int main(viod)
