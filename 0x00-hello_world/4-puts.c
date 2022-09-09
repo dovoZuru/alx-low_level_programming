@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Printing in main
+ * main - Printing in main
  *
- * Returns 0
+ * Return: 0
 */
 int main(void)
 {
