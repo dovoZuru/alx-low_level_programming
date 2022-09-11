@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - code prints all single digit numbers of base 10 starting from 0.
  *
@@ -7,12 +6,10 @@
  */
 int main(void)
 {
-	int numb;
+	int n;
 
-	for (numb = 0; numb < 10; numb++)
-		printf("%d", numb);
-
+	for (n = 0; n < 10; n++)
+		printf("%d", n);
 	printf("\n");
-	
 	return (0);
 }
