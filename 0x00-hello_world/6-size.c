@@ -7,7 +7,7 @@
  * This program Prints sizeof var data types
  * Return: 0
  */
-int main(viod)
+int main(void)
 {
 	char v;
 	int w;
