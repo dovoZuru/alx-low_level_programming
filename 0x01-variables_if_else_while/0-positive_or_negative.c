@@ -4,8 +4,8 @@
 
 /**
 * main - print if the number is postive, zero, or negative.
-*Descrition: Identifies if number is positive, nagative or zero, then prints
-* return: Always 0
+*Descrition: Identifies if number is positive, nagative or zero, then prints.
+* Return: Always 0.
 */
 int main(void)
 {
